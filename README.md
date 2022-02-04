@@ -2,7 +2,7 @@
 
 ## Chapter_1 : 자료구조와 알고리즘
 
-* TBD
+* Clock / 실행 시간 측정
 
 ## Chapter_2 : 배열과 클래스
 
