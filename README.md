@@ -7,7 +7,9 @@
 
 ## Chapter_2 : 스택과 큐
 
-* TBD
+* ArrayStack / 스택
+* CircularQueue / 원형 큐
+* CircularDeque / 원형 덱
 
 ## Chapter_3 : 포인터와 연결 리스트
 
