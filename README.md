@@ -8,8 +8,8 @@
 ## Chapter_2 : 스택과 큐
 
 * ArrayStack / 스택
-* CircularDuque / 원형 덱
 * CircularDeque / 원형 큐
+* CircularDuque / 원형 덱
 
 ## Chapter_3 : 포인터와 연결 리스트
 
@@ -18,7 +18,10 @@
 
 ## Chapter_4 : 리스트
 
-* TBD
+* ArrayList / 배열 리스트
+* LinkedList / 단순 연결 리스트
+* DoubleLinkedList / 이중 연결 리스트
+* LinkedDeque / 이중 연결 리스트 덱
 
 ## Chapter_5 : 순환
 
