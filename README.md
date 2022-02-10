@@ -8,12 +8,13 @@
 ## Chapter_2 : 스택과 큐
 
 * ArrayStack / 스택
-* CircularQueue / 원형 큐
-* CircularDeque / 원형 덱
+* CircularDuque / 원형 덱
+* CircularDeque / 원형 큐
 
 ## Chapter_3 : 포인터와 연결 리스트
 
-* TBD
+* LinkedQueue / 연결 리스트 큐
+* Dynamic_2dArray / 2차원 배열 동적 할당
 
 ## Chapter_4 : 리스트
 
