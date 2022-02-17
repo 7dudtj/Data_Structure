@@ -23,30 +23,27 @@
 * DoubleLinkedList / 이중 연결 리스트
 * LinkedDeque / 이중 연결 리스트 덱
 
-## Chapter_5 : 트리
+## Chapter_5 : 이진 탐색 트리
+
+* BinaryTree / 이진 트리
+* TBD
+
+## Chapter_6 : 우선순위 큐
 
 * TBD
 
-## Chapter_6 : 이진 탐색 트리
+## Chapter_7 : 그래프
 
 * TBD
 
-## Chapter_7 : 우선순위 큐
+## Chapter_8 : 가중치 그래프
 
 * TBD
 
-## Chapter_8 : 그래프
+## Chapter_9 : 정렬
 
 * TBD
 
-## Chapter_9 : 가중치 그래프
-
-* TBD
-
-## Chapter_10 : 정렬
-
-* TBD
-
-## Chapter_11 : 탐색
+## Chapter_10 : 탐색
 
 * TBD
