@@ -26,7 +26,7 @@
 ## Chapter_5 : 이진 탐색 트리
 
 * BinaryTree / 이진 트리
-* TBD
+* BinarySearchTree / 이진 탐색 트리
 
 ## Chapter_6 : 우선순위 큐
 
