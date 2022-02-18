@@ -2,7 +2,7 @@
 
 class BinaryTree
 {
-private:
+protected:
     BinaryNode* root;
 public:
     BinaryTree() : root(NULL) {}
@@ -15,14 +15,14 @@ public:
     void inorder(BinaryNode* node){
         if (node != NULL){
             if (node->getLeft() != NULL) inorder(node->getLeft());
-            printf(" [%c] ", node->getData());
+            printf(" [%d] ", node->getData());
             if (node->getRight() != NULL) inorder(node->getRight());
         }
     }
     void preorder(){ printf("\n   preorder: "); preorder(root); }
     void preorder(BinaryNode* node){
         if (node != NULL){
-            printf(" [%c] ", node->getData());
+            printf(" [%d] ", node->getData());
             if (node->getLeft() != NULL) inorder(node->getLeft());
             if (node->getRight() != NULL) inorder(node->getRight());
         }
@@ -32,7 +32,7 @@ public:
         if (node != NULL){
             if (node->getLeft() != NULL) inorder(node->getLeft());
             if (node->getRight() != NULL) inorder(node->getRight());
-            printf(" [%c] ", node->getData());
+            printf(" [%d] ", node->getData());
         }
     }
     void levelorder(){
@@ -43,7 +43,7 @@ public:
             while (!q.isEmpty()){
                 BinaryNode* n = q.dequeue();
                 if (n != NULL){
-                    printf(" [%c] ", n->getData());
+                    printf(" [%d] ", n->getData());
                     q.enqueue(n->getLeft());
                     q.enqueue(n->getRight());
                 }
