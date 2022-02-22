@@ -30,7 +30,8 @@
 
 ## Chapter_6 : 우선순위 큐
 
-* TBD
+* Heap / 최대 힙
+* HeapSort / 힙 정렬
 
 ## Chapter_7 : 그래프
 
