@@ -35,16 +35,14 @@
 
 ## Chapter_7 : 그래프
 
+* Graph / 그래프
+* TopologicalSort / 위상정렬
 * TBD
 
-## Chapter_8 : 가중치 그래프
+## Chapter_8 : 정렬
 
 * TBD
 
-## Chapter_9 : 정렬
-
-* TBD
-
-## Chapter_10 : 탐색
+## Chapter_9 : 탐색
 
 * TBD
