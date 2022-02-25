@@ -37,12 +37,3 @@
 
 * Graph / 그래프
 * TopologicalSort / 위상정렬
-* TBD
-
-## Chapter_8 : 정렬
-
-* TBD
-
-## Chapter_9 : 탐색
-
-* TBD
